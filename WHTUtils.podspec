@@ -1,7 +1,7 @@
 Pod::Spec.new do |s|
 
   s.name         = "WHTUtils"
-  s.version      = "1.0.3"
+  s.version      = "1.0.4"
   s.summary      = "A Library for iOS to use for WHTUtils."
   s.ios.deployment_target = '7.0'
   s.homepage     = "https://github.com/wenhuatai/WHTUtils"
